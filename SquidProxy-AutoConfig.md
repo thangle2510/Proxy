@@ -1,12 +1,12 @@
 # Proxy Auto Config
 # Squid - Autoconfig
-!!! note Preparation
+####Preparation
 - Squid proxy
 - web server with virtual host configured
 - PAC file
 - Guide link of FindProxyForURL function: 
   - [Proxy Auto-Configuration (PAC) file - HTTP \| MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_(PAC)_file)
-!!!
+
 ### Web server configuration
 ```shell
 touch /etc/httpd/conf.d/proxy.conf
