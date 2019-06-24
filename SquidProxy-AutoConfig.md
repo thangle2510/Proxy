@@ -1,6 +1,6 @@
 # Proxy Auto Config
 # Squid - Autoconfig
-####Preparation
+Preparation
 - Squid proxy
 - web server with virtual host configured
 - PAC file
